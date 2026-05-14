@@ -1,5 +1,7 @@
 # Mom-trivia-copilot
 
+Copilot version
+
 ## Famous Moms Trivia Game (Millennial Edition)
 
 A ready-to-play trivia set for a mom-themed costume party, designed for millennials (roughly born in the 1980s) with references from 90s/00s nostalgia plus current pop culture.
