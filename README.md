@@ -22,7 +22,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
    **Answer:** Eva Mendes
 4. **This *Gossip Girl* alum and lifestyle founder is mom to four kids with Ryan Reynolds.**  
    **Answer:** Blake Lively
-5. **She played Summer on *The O.C.* and is married to Adam Brody.**  
+5. **She played Blair Waldorf on *Gossip Girl* and is married to Adam Brody.**  
    **Answer:** Leighton Meester
 6. **This pop icon behind “Since U Been Gone” now hosts a daytime talk show and has two kids.**  
    **Answer:** Kelly Clarkson
@@ -38,7 +38,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
     **Answer:** Lacey Chabert
 12. **This singer of “Firework” is mom to daughter Daisy.**  
     **Answer:** Katy Perry
-13. **She played Summer Roberts on *The O.C.* and is mom to one daughter.**  
+13. **She starred in *The O.C.* and *Hart of Dixie* and is mom to one daughter.**  
     **Answer:** Rachel Bilson
 14. **This *Bring It On* star and producer is mom to two daughters.**  
     **Answer:** Gabrielle Union
