@@ -22,7 +22,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
    **Answer:** Hilary Duff
 3. **She starred in *The Notebook* and is a mom with Ryan Gosling.**  
    **Answer:** Eva Mendes
-4. **This *Gossip Girl* alum and lifestyle founder is mom to four kids with Ryan Reynolds.**  
+4. **This *Gossip Girl* alum and lifestyle founder is a famous celebrity mom married to Ryan Reynolds.**  
    **Answer:** Blake Lively
 5. **She played Blair Waldorf on *Gossip Girl* and is married to Adam Brody.**  
    **Answer:** Leighton Meester
@@ -36,7 +36,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
    **Answer:** Jessica Alba
 10. **She went from *The Mickey Mouse Club* to global superstardom and is mom to two sons.**  
     **Answer:** Britney Spears
-11. **This *Mean Girls* star (Gretchen Wieners) is now a Hallmark favorite and mom of one daughter.**  
+11. **This *Mean Girls* star (Gretchen Wieners) is now a Hallmark favorite and mom.**  
     **Answer:** Lacey Chabert
 12. **This singer of “Firework” is mom to daughter Daisy.**  
     **Answer:** Katy Perry
@@ -54,7 +54,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
     **Answer:** Victoria Beckham
 19. **This singer behind “Raise Your Glass” and “Just Give Me a Reason” is mom to two kids.**  
     **Answer:** P!nk
-20. **This *This Is Us* actress and singer is mom to three sons.**  
+20. **This *This Is Us* actress and singer is also a well-known celebrity mom.**  
     **Answer:** Mandy Moore
 
 ## Tiebreaker round (hard mode)
