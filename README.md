@@ -20,7 +20,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
    **Answer:** Kristen Bell
 2. **This former child star from *Lizzie McGuire* is now a mom and author.**  
    **Answer:** Hilary Duff
-3. **She starred in *The Notebook* and has two kids with Ryan Gosling.**  
+3. **She starred in *The Notebook* and is a mom with Ryan Gosling.**  
    **Answer:** Eva Mendes
 4. **This *Gossip Girl* alum and lifestyle founder is mom to four kids with Ryan Reynolds.**  
    **Answer:** Blake Lively
@@ -30,7 +30,7 @@ A ready-to-play trivia set for a mom-themed costume party, designed for millenni
    **Answer:** Kelly Clarkson
 7. **She was in Destiny’s Child and now has three children with Jay-Z.**  
    **Answer:** Beyoncé
-8. **This tennis legend and entrepreneur is mom to daughters Olympia and Adira.**  
+8. **This tennis legend and entrepreneur is a famous girl mom.**  
    **Answer:** Serena Williams
 9. **This actress from *Fantastic Four* founded The Honest Company and is mom to three.**  
    **Answer:** Jessica Alba
