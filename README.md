@@ -10,7 +10,7 @@ Copilot version
 5. In Marvel’s *WandaVision*, which Avenger mom creates Westview’s sitcom-style reality?
 6. In *The Incredibles*, what superhero alias does mom Helen Parr use?
 7. In *Bluey*, what is the name of Bluey and Bingo’s mom?
-8. In *Full House*, what is the first name of DJ, Stephanie, and Michelle’s late mother?
+8. In *Full House*, what is the first name of DJ, Stephanie, and Michelle’s late mother, whose loss sets up the show’s family dynamic?
 9. In *Modern Family*, which Colombian-born mom is known for her confident one-liners and vibrant personality?
 10. In *Mean Girls* (2004), which actress plays Regina George’s “cool mom”?
 11. In *Freaky Friday* (2003), what profession does Tess Coleman (the mom) have?
@@ -26,5 +26,5 @@ Copilot version
 21. What does the acronym “SPF” stand for in daily skincare routines popular with many moms?
 22. Which at-home fitness brand became a household name with bike and tread classes many moms stream?
 23. What is the name of the annual sale event where many moms track major markdowns on fashion and home essentials?
-24. Which puzzle game app had a major comeback among adults and parents after its 2022 launch by The New York Times?
+24. Which puzzle game app surged in popularity among adults and parents after its 2022 launch by The New York Times?
 25. What is the name of the “swiftie” friendship-bracelet tradition that surged again during the Eras Tour and was widely adopted by moms and daughters?
