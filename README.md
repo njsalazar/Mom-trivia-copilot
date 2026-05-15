@@ -6,12 +6,12 @@ Copilot version
 1. In *Barbie* (2023), what is the first name of America Ferrera’s character, the real-world mom who helps Barbie question perfection?
 2. In Pixar’s *Turning Red*, what is the name of Mei’s protective mother?
 3. In *Gilmore Girls*, what is the name of Rory’s mom, known for fast talk and coffee obsession?
-4. In *Black-ish*, what is the first name of the mom played by Tracee Ellis Ross?
+4. In *black-ish*, what is the first name of the mom played by Tracee Ellis Ross?
 5. In Marvel’s *WandaVision*, which Avenger mom creates Westview’s sitcom-style reality?
 6. In *The Incredibles*, what superhero alias does mom Helen Parr use?
 7. In *Bluey*, what is the name of Bluey and Bingo’s mom?
 8. In *Full House*, what is the first name of DJ, Stephanie, and Michelle’s late mother?
-9. In *Modern Family*, which mom is known for saying, “I got Gloria” while blending a big family?
+9. In *Modern Family*, which Colombian-born mom is known for her confident one-liners and vibrant personality?
 10. In *Mean Girls* (2004), which actress plays Regina George’s “cool mom”?
 11. In *Freaky Friday* (2003), what profession does Tess Coleman (the mom) have?
 12. In *The Parent Trap* (1998), in which city does mom Elizabeth James live and work?
