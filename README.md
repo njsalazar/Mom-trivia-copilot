@@ -27,4 +27,4 @@ Copilot version
 22. Which at-home fitness brand became a household name with bike and tread classes many moms stream?
 23. What is the name of the annual sale event where many moms track major markdowns on fashion and home essentials?
 24. Which puzzle game app surged in popularity among adults and parents after The New York Times acquired it in 2022?
-25. What is the name of the “swiftie” friendship-bracelet tradition that surged again during the Eras Tour and was widely adopted by moms and daughters?
+25. What is the name of the “Swiftie” friendship-bracelet tradition that surged again during the Eras Tour and was widely adopted by moms and daughters?
